@@ -1,1 +1,1 @@
-Necessary information about this project is given in the PDF file.
+The pdf file above contains information about what to do about the project and the general structure of the dataset.
